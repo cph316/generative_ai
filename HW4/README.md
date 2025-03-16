@@ -2,11 +2,11 @@
 
 Prompts : 請用 Python 撰寫一個程式，使其能夠在螢幕上顯示會隨機往下掉落的彩色球體，請確保運動符合物理定律。
 
-![GIF 展示](https://raw.githubusercontent.com/cph316/generative_ai/HW4 
-/falling_balls_ChatGPT.gif)
+![GIF 展示](falling_balls_ChatGPT.gif)
 
-![GIF 展示](https://raw.githubusercontent.com/cph316/generative_ai/HW4 
-/falling_balls_Cluade.gif)
+![GIF 展示](falling_balls_Cluade.gif)
+
+![動畫展示](falling_balls_Cluade.gif)
 
 ## **結論**
 
