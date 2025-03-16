@@ -3,6 +3,7 @@
 Prompts : 請用 Python 撰寫一個程式，使其能夠在螢幕上顯示會隨機往下掉落的彩色球體，請確保運動符合物理定律。
 
 **ChatGPT**
+
 ![動畫1](falling_balls_ChatGPT.gif)
 
 
@@ -26,4 +27,3 @@ Prompts : 請用 Python 撰寫一個程式，使其能夠在螢幕上顯示會�
 
 4.兩者相比 Claude對於程式的理解較好
 
-**ChatGPT**
