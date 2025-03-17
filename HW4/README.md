@@ -4,11 +4,11 @@ Prompts : 請用 Python 撰寫一個程式，使其能夠在螢幕上顯示會�
 
 
 
-
+**ChatGPT**
 
 ![ChatGPT GIF](falling_balls_ChatGPT.gif)
 
-
+**Cluade**
 ![Claude GIF](falling_balls_Claude.gif)
 
 
