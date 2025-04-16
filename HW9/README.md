@@ -19,3 +19,11 @@
 貼文會包含情緒表達（emoji）、角色語氣與主觀情感，並結尾加上適合的 hashtag。
 
 📌 目的：讓角色具象化，體驗「如果我是它，會怎麼說這句話」的共感與創作
+
+![image](https://github.com/user-attachments/assets/472afbb3-753b-42ac-ad8d-087a6c5d4af9)
+
+![image](https://github.com/user-attachments/assets/6273037e-9c05-4888-b99c-1de08b192b73)
+
+![image](https://github.com/user-attachments/assets/b2a7ef8a-195d-4974-9f5e-25acd765198b)
+
+
