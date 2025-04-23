@@ -1,3 +1,5 @@
+利用Bing 進行文字生圖。(Diffusion modle)
+
 油畫藝術風（Impressionist / Fine Art Style）
 
 🌟風格特色：筆觸明顯、油畫質感、藝術氛圍
