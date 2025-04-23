@@ -1,8 +1,8 @@
-利用Bing 進行文字生圖。(Diffusion modle)
+梵谷風格的鄉村生成圖
 
-油畫藝術風（Impressionist / Fine Art Style）
+🌟利用Bing 進行文字生圖。(Diffusion modle)
 
-🌟風格特色：筆觸明顯、油畫質感、藝術氛圍
+🌟風格特色：油畫藝術風
 
 📌 推薦 prompt：
 a peaceful countryside landscape with golden fields and a small cottage, impressionist painting style, inspired by Van Gogh, visible brush strokes
