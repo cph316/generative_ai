@@ -1,6 +1,6 @@
-梵谷風格的鄉村生成圖
+##梵谷風格的鄉村生成圖
 
-🌟利用Bing 進行文字生圖。(Diffusion modle)
+#🌟利用Bing 進行文字生圖。(Diffusion modle)
 
 # 生圖使用的風格
 - 印象派油畫風格（Impressionist Painting Style）
