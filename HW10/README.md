@@ -7,13 +7,7 @@
 - 梵谷啟發（Inspired by Van Gogh）
 - 筆觸明顯（Visible Brush Strokes）
 
-📌 推薦 prompt：
-a peaceful countryside landscape with golden fields and a small cottage, impressionist painting style, inspired by Van Gogh, visible brush strokes
-![_3159974a-3b1e-4233-941e-bc4a9d6f177b](https://github.com/user-attachments/assets/e961cf1c-795d-42ce-839e-a646edaf12b1)
-
-
-
-| 組合編號 | Prompt | 精選圖 |
+| 編號 | Prompt | 精選圖 |
 |:--------|:-------|:------|
 | 1 | a peaceful countryside landscape with golden fields and a small cottage, impressionist painting style, inspired by Van Gogh, visible brush strokes |![1](https://github.com/user-attachments/assets/c6aa248b-bc78-4a3e-b44e-877e0c3b83e7)|
 | 2 | a cozy riverside house surrounded by colorful autumn trees, impressionist painting style, inspired by Van Gogh, visible brush strokes |![2](https://github.com/user-attachments/assets/5db03e9d-a00f-4dbd-aa89-cf89dddb1c11)|
@@ -22,8 +16,7 @@ a peaceful countryside landscape with golden fields and a small cottage, impress
 
 
 # 說明
-- **組合1**：色彩飽和、金黃色田野與小屋分佈自然。
-- **組合2**：野花色彩繽紛，中央小徑構圖引導感佳。
-- **組合3**：夕陽金光溫暖，橄欖樹排列有層次。
-- **組合4**：秋葉色調豐富，河流反光細節佳。
-- **組合5**：市集氛圍熱鬧，攤位色彩鮮明生動。
+- **1**：色彩飽和、金黃色田野與小屋分佈自然。
+- **2**：秋葉色調豐富，河流反光細節佳。
+- **3**：野花色彩繽紛，中央小徑構圖引導感佳。
+- **4**：市集氛圍熱鬧，攤位色彩鮮明生動。
