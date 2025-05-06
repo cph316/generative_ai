@@ -1,3 +1,5 @@
+# HW10
+
 # 梵谷風格的鄉村生成圖
 
 ## 🌟利用Bing 進行文字生圖。(Diffusion modle)
