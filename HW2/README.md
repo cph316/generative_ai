@@ -1,3 +1,5 @@
+Colab : https://colab.research.google.com/drive/15OoCqV0bx5OnDRM8tmVwQ7IEFnnI5SIY?usp=sharing
+
 # HW2
 ## 以下為設計神經網路到訓練的步驟
 1. 讀入套件 gradio
