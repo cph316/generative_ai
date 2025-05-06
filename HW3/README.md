@@ -4,7 +4,32 @@ Colab : https://colab.research.google.com/drive/1pVaHl4AwRblE3AX7inQo-sqIbgdClLI
 
 1.說明 Cross Entropy 與 KL Divergence
 
+Cross Entropy 和 KL Divergence 主要是用來衡量兩個機率分佈的差異。在 GAN中，這兩個概念很重要，因為生成器要學習讓它的分佈𝑄盡可能接近真實數據分佈𝑃，而判別器則在幫助區分。
+
 2.公式與計算
+
+(1) Cross Entropy
+
+H(P,Q)=−i∑iP(xi)logQ(xi) 
+
+其中：
+
+P(xi)  是真實分佈（通常是 one-hot 標籤）。
+
+Q(xi)  是模型預測的機率分佈。
+
+這代表「當我們使用𝑄來表達𝑃的時候，平均需要多少 bits 來表示這個系統的資訊？」
+
+(2) KL Divergence
+
+DKL(P∥Q)=∑iP(xi)logP(xi)/​logQ(xi) 
+
+這代表「當我們用𝑄來代替𝑃，會額外產生多少錯誤資訊？」
+
+(3) 兩者關係  H(P,Q)=H(P)+DKL(P∥Q) 
+
+-如果𝑄和𝑃完全相同，那麼 KL 散度為 0，交叉熵等於熵。 -但如果𝑄與𝑃差異很大，KL 散度會變大，交叉熵也會變大。
+
 
 3.硬幣範例
 
