@@ -1,3 +1,7 @@
+Colab : https://colab.research.google.com/drive/1ZQ-niuW39bJgYGW2mYWjcAuJWe8avUaq?usp=sharing
+
+# HW9
+
 ### 🎯 任務說明：將「奇想角色觀點機」改寫為 Chain-of-Thought（CoT）推理過程
 
 讓我們換個腦袋來看事情！透過 AI 模型協作，這個工具將幫你用創意角色視角重新詮釋一段日常經歷。
