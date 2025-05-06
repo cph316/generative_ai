@@ -1,3 +1,4 @@
+Colab : https://colab.research.google.com/drive/1uuQum1EsknfEN4D2-TiDH3TN8rZfstnB?usp=sharing
 
 # HW6
 
