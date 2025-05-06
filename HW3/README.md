@@ -1,6 +1,6 @@
 Colab : https://colab.research.google.com/drive/1pVaHl4AwRblE3AX7inQo-sqIbgdClLIr?usp=sharing
 
-# 主題二
+# HW3_主題二
 
 ## 1.說明 Cross Entropy 與 KL Divergence
 
