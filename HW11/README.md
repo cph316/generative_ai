@@ -1,3 +1,4 @@
+colab 連結 : https://colab.research.google.com/drive/15zUqed-x4O8Z_6HdyfT3Rfc4pbeAZk1Z?usp=sharing
 
 🎨 Dreamshaper v8 互動圖像生成器
 
