@@ -2,11 +2,11 @@ Colab : https://colab.research.google.com/drive/1pVaHl4AwRblE3AX7inQo-sqIbgdClLI
 
 # 主題二
 
-1.說明 Cross Entropy 與 KL Divergence
+## 1.說明 Cross Entropy 與 KL Divergence
 
 Cross Entropy 和 KL Divergence 主要是用來衡量兩個機率分佈的差異。在 GAN中，這兩個概念很重要，因為生成器要學習讓它的分佈𝑄盡可能接近真實數據分佈𝑃，而判別器則在幫助區分。
 
-2.公式與計算
+## 2.公式與計算
 
 (1) Cross Entropy
 
@@ -31,7 +31,7 @@ DKL(P∥Q)=∑iP(xi)logP(xi)/​logQ(xi)
 -如果𝑄和𝑃完全相同，那麼 KL 散度為 0，交叉熵等於熵。 -但如果𝑄與𝑃差異很大，KL 散度會變大，交叉熵也會變大。
 
 
-3.硬幣範例
+## 3.硬幣範例
 
 - (1)公式建立
 - (2)Python 程式
